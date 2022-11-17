@@ -7,8 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoSpringBootApplication {
 
 	public static void main(String[] args) {
+
 		dfsdf.run(DemoSpringBootApplication.class, args);
 Rahul Singh
+
 	}
 
 }
